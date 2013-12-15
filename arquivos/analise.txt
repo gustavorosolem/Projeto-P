@@ -1,0 +1,25 @@
+Como Funciona:
+
+- Portal
+-- Institucional
+-- Cadastro
+
+- Loja
+-- Institucional
+-- Listagem dos Produtos
+-- Pagina de Finalização
+
+- Controle
+-- Informaçoes da Pizzaria
+-- Cadastro dos Sabores
+-- Estatisticas de Uso
+-- Listagem dos Pedidos
+-- Dados dos Usuarios
+
+
+
+
+
+Concorrentes:
+http://www.pizzariaecia.com.br/
+http://www.deliverypizzaria.com/
