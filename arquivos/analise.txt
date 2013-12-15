@@ -1,4 +1,4 @@
-Como Funciona:
+EStrutura:
 
 - Portal
 -- Institucional
@@ -16,6 +16,19 @@ Como Funciona:
 -- Listagem dos Pedidos
 -- Dados dos Usuarios
 
+
+Como Funciona:
+- Dono da Pizzaria entra no Portal
+- Realiza o cadastro com os dados básicos
+- É criada uma extensão da plataforma para a Pizzaria
+- subdominio.portal.com.br
+- Pizzaria cadastra os sabores disponiveis
+- Clientes entram na pizzaria (subdominio.portal.com.br) e verificam as disponibilidades
+- Cliente seleciona o que deseja, e vai para a página de checkout
+- Realiza o cadastro e pagamento
+- A pizzaria recebe o pedido através do controle
+- Pizzaria envia o pedido e passa um status ao cliente
+- Cliente recebe a pizza e avalia o serviço
 
 
 
