@@ -3,3 +3,7 @@ body {
 	padding-top: 50px;
 	padding-bottom: 20px;
 }
+
+.jumbotron { background: url(../img/bg.jpg) repeat center center; background-size: 100% auto; }
+.jumbotron h1, .jumbotron p { text-shadow: 1px 1px 0 #FFF, -1px 1px 0 #FFF; }
+.jumbotron a { text-shadow: none; }
